@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3c39a838-cd42-4a5c-84fe-464af684e73a"
+      }
+    },
+    "owner": "anbya-armyali"
   }
 }
